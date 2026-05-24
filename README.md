@@ -102,13 +102,34 @@ ________________________________________________________________________________
    
 ### Conclusiones clave
 
-🧠 Lenguajes principales: SQL y Python aparecen cada uno en unas 29 000 ofertas de empleo, lo que los convierte en las habilidades más demandadas.
+🧠 **Lenguajes principales:**  *SQL y Python* aparecen cada uno en unas 29 000 ofertas de empleo, lo que los convierte en las habilidades más demandadas.
 
-☁️ Plataformas en la nube: AWS y Azure son fundamentales para los puestos de ingeniería de datos modernos.
+☁️ **Plataformas en la nube:**  *AWS y Azure* son fundamentales para los puestos de ingeniería de datos modernos.
 
-🧱 Infraestructura y herramientas: Kubernetes, Docker y Terraform están asociados a salarios elevados.
+🧱 **Infraestructura y herramientas:** *Kubernetes, Docker y Terraform* están asociados a salarios elevados.
 
-🔥 Herramientas de big data: Apache Spark muestra una fuerte demanda con una remuneración competitiva.
+🔥 **Herramientas de big data:** *Apache Spark* muestra una fuerte demanda con una remuneración competitiva.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+### 💻 Conocimientos demostrados de SQL
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+#### Diseño y optimización de consultas
+
+* **Uniones complejas:** operaciones <mark>INNER JOIN</mark> entre varias tablas (<mark>job_postings_fact</mark>, <mark>skills_job_dim</mark> y <mark>skills_dim</mark>).
+* **Agregaciones:** <mark>COUNT()</mark>, <mark>MEDIAN()</mark>, <mark>ROUND()</mark> para análisis estadístico.
+* **Filtrado:** lógica booleana con cláusulas <mark>WHERE</mark> y múltiples condiciones (<mark>job_title_short</mark>, <mark>job_work_from_home</mark>, <mark>salary_year_avg IS NOT NULL</mark>).
+* **Orden y limitación:** <mark>ORDER BY</mark> con <mark>DESC</mark> y <mark>LIMIT</mark> para análisis de los N primeros.
+
+#### Técnicas de análisis de datos
+
+* **Agrupación:** <mark>GROUP BY</mark> para análisis categórico por habilidad.
+* **Funciones matemáticas:** <mark>LN()</mark> para la transformación logarítmica natural con el fin de normalizar las métricas de demanda.
+* **Métricas calculadas:** Puntuación óptima derivada que combina la demanda transformada logarítmicamente con el salario medio.
+* **Cláusula HAVING:** Filtrado de resultados agregados (habilidades con >= 100 ofertas).
+* **Manejo de valores NULL:** Filtrado adecuado de registros incompletos (<mark>salary_year_avg IS NOT NULL</mark>).
 
 
 

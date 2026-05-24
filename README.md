@@ -6,10 +6,10 @@ Un proyecto de SQL que analiza el mercado laboral de los ingenieros de datos uti
 
 ## 🧾 Resumen ejecutivo (para responsables de contratación)
 
-✅ Alcance del proyecto: Creación de tres consultas analíticas que responden a preguntas clave sobre el mercado laboral de los ingenieros de datos
-✅ Modelado de datos: Uso de uniones entre varias tablas de hechos y dimensiones para extraer información relevante
-✅ Análisis: se aplicaron agregaciones, filtrados y ordenaciones para identificar las habilidades más demandadas según la demanda, el salario y el valor global
-✅ Resultados: se proporcionaron insights prácticos sobre el predominio de SQL/Python, las tendencias en la nube y los patrones salariales
+✅ Alcance del proyecto: Creación de tres consultas analíticas que responden a preguntas clave sobre el mercado laboral de los ingenieros de datos.
+✅ Modelado de datos: Uso de uniones entre varias tablas de hechos y dimensiones para extraer información relevante.
+✅ Análisis: se aplicaron agregaciones, filtrados y ordenaciones para identificar las habilidades más demandadas según la demanda, el salario y el valor global.
+✅ Resultados: se proporcionaron insights prácticos sobre el predominio de SQL/Python, las tendencias en la nube y los patrones salariales.
 
 Si solo tienes un minuto, echa un vistazo a esto:
 1. [01_top_demand_skills.sql]() -

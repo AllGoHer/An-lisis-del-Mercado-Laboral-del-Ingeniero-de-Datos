@@ -1,10 +1,15 @@
 # Analisis-del-Mercado-Laboral-del-Ingeniero-de-Datos
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Un proyecto de SQL que analiza el mercado laboral de los ingenieros de datos utilizando datos reales de ofertas de empleo. Demuestra mi capacidad para escribir código SQL analítico apto para producción, diseñar consultas eficientes y convertir preguntas de negocio en conclusiones basadas en datos.
 
 ![image](https://github.com/user-attachments/assets/27d6f1a2-7d7a-4acd-8c0c-343054aa453b)
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## 🧾 Resumen ejecutivo (para responsables de contratación)
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✅ Alcance del proyecto: Creación de tres consultas analíticas que responden a preguntas clave sobre el mercado laboral de los ingenieros de datos.
 
@@ -14,13 +19,17 @@ Un proyecto de SQL que analiza el mercado laboral de los ingenieros de datos uti
 
 ✅ Resultados: se proporcionaron insights prácticos sobre el predominio de SQL/Python, las tendencias en la nube y los patrones salariales.
 
-    Si solo tienes un minuto, echa un vistazo a esto:
+Si solo tienes un minuto, echa un vistazo a esto:
 
-1. [01_top_demand_skills.sql]() - Análisis de la demanda con uniones entre multiples tablas
-2. [02_top_paying_skills.sql]() - Análisis salarial con agregaciones
-3. [03_optimal_skills.sql]() - optimización de consulta combinada de demanda y salario
+1. [01_top_demand_skills.sql]() - Análisis de la demanda con uniones entre multiples tablas.
+2. [02_top_paying_skills.sql]() - Análisis salarial con agregaciones.
+3. [03_optimal_skills.sql]() - optimización de consulta combinada de demanda y salario.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🧩 Problema & Contexto
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Los analistas del mercado laboral deben responder a preguntas como:
 
@@ -39,15 +48,19 @@ Este proyecto analiza un almacén de datos creado con un diseño de esquema en e
 
 * **Dimension Tables / Tablas de dimensiones:**
 
-       * ***company_dim:*** información de la empresa vinculada a las ofertas de empleo.
+  * <mark>company_dim:</mark> información de la empresa vinculada a las ofertas de empleo.
 
-       * ==skills_dim:== catálogo de competencias con nombres y tipos de competencias.
+  * <mark>skills_dim:</mark> catálogo de competencias con nombres y tipos de competencias.
 
-* **Bridge Table / Tabla puente:** ==skills_job_dim:== resuelve la relación muchos a muchos entre las ofertas de empleo y las competencias.
+* **Bridge Table / Tabla puente:** <mark>skills_job_dim:</mark> resuelve la relación muchos a muchos entre las ofertas de empleo y las competencias.
 
 Mediante consultas en estas tablas interconectadas, extraje información sobre la demanda de competencias, los patrones salariales y las combinaciones óptimas de competencias para puestos de ingeniería de datos.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## 🧰 Tech Stack
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🐤 Motor de consultas: DuckDB para consultas analíticas rápidas de tipo OLAP.
 
@@ -59,20 +72,27 @@ Mediante consultas en estas tablas interconectadas, extraje información sobre l
 
 📦 Control de versiones: Git/GitHub para scripts SQL versionados.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 📂 Estructura del Repositorio
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 1_EDA/
 
-├── 01_top_demanded_skills.sql                   # Consulta de análisis de demanda.
+├── 01_top_demanded_skills.sql      &emsp;      # Consulta de análisis de demanda.
 
-├── 02_top_paying_skills.sql                     # Consulta análisis salarial.
+├── 02_top_paying_skills.sql&emsp;# Consulta análisis salarial.
 
-├── 03_optimal_skills.sql                        # Optimización combinada demanda/salario.
+├── 03_optimal_skills.sql &emsp; # Optimización combinada demanda/salario.
 
-└── README.md                                    # Estás aquí.
+└── README.md&emsp;       # Estás aquí.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🏗 Resúmen de Análisis
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 

@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 Si solo tienes un minuto, echa un vistazo a esto:
 
-1. [01_top_demand_skills.sql]() - Análisis de la demanda con uniones entre multiples tablas.
+1. [01_top_demand_skills.sql](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/01_Top_Demanded_Skills.sql) - Análisis de la demanda con uniones entre multiples tablas.
 2. [02_top_paying_skills.sql]() - Análisis salarial con agregaciones.
 3. [03_optimal_skills.sql]() - optimización de consulta combinada de demanda y salario.
 
@@ -82,7 +82,7 @@ ________________________________________________________________________________
 
 ├── 01_top_demanded_skills.sql&emsp;&emsp;&emsp;# Consulta de análisis de demanda.
 
-├── 02_top_paying_skills.sql&emsp;&emsp;&emsp;  # Consulta análisis salarial.
+├── 02_top_paying_skills.sql&emsp;&emsp;&emsp;&emsp;  # Consulta análisis salarial.
 
 ├── 03_optimal_skills.sql&emsp;&emsp;&emsp;&emsp;&emsp;# Optimización combinada demanda/salario.
 
@@ -96,7 +96,7 @@ ________________________________________________________________________________
 
 ### Estructura de la consulta
 
-1. [Top Demanded Skills](): identifica las 10 habilidades más demandadas para puestos de ingeniero de datos a distancia.
+1. [Top Demanded Skills](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/01_Top_Demanded_Skills.sql): identifica las 10 habilidades más demandadas para puestos de ingeniero de datos a distancia.
 2. [Top Paying Skills:]() analiza las 25 habilidades mejor remuneradas con métricas de salario y demanda.
 3. [Optimal Skills]() - calcula una puntuación óptima utilizando el logaritmo natural de la demanda combinado con el salario medio para identificar las habilidades más valiosas que conviene aprender.
    

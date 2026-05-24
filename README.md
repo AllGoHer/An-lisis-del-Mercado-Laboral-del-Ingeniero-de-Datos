@@ -33,11 +33,11 @@ Los analistas del mercado laboral deben responder a preguntas como:
 
 Este proyecto analiza un almacén de datos creado con un diseño de esquema en estrella. La estructura del almacén consta de:
 
-                                      ![image](https://github.com/user-attachments/assets/5aff4db7-b5b6-41bd-ac70-9ec620265aac)
+![image](https://github.com/user-attachments/assets/5aff4db7-b5b6-41bd-ac70-9ec620265aac)
 
-**. Fact Table / Tabla de hechos:** job_postings_fact - Tabla central que contiene los detalles de las ofertas de empleo (puestos, ubicaciones, salarios, fechas, etc.).
+***Fact Table / Tabla de hechos:** job_postings_fact - Tabla central que contiene los detalles de las ofertas de empleo (puestos, ubicaciones, salarios, fechas, etc.).
 
-**. Dimension Tables / Tablas de dimensiones:**
+*** Dimension Tables / Tablas de dimensiones:**
 
    * company_dim: información de la empresa vinculada a las ofertas de empleo.
 

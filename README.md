@@ -94,7 +94,21 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+### Estructura de la consulta
 
+1. [Top Demanded Skills](): identifica las 10 habilidades más demandadas para puestos de ingeniero de datos a distancia.
+2. [Top Paying Skills:]() analiza las 25 habilidades mejor remuneradas con métricas de salario y demanda.
+3. [Optimal Skills]() - calcula una puntuación óptima utilizando el logaritmo natural de la demanda combinado con el salario medio para identificar las habilidades más valiosas que conviene aprender.
+   
+### Conclusiones clave
+
+🧠 Lenguajes principales: SQL y Python aparecen cada uno en unas 29 000 ofertas de empleo, lo que los convierte en las habilidades más demandadas.
+
+☁️ Plataformas en la nube: AWS y Azure son fundamentales para los puestos de ingeniería de datos modernos.
+
+🧱 Infraestructura y herramientas: Kubernetes, Docker y Terraform están asociados a salarios elevados.
+
+🔥 Herramientas de big data: Apache Spark muestra una fuerte demanda con una remuneración competitiva.
 
 
 

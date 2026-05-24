@@ -35,15 +35,15 @@ Este proyecto analiza un almacén de datos creado con un diseño de esquema en e
 
 ![image](https://github.com/user-attachments/assets/5aff4db7-b5b6-41bd-ac70-9ec620265aac)
 
-***Fact Table / Tabla de hechos:** job_postings_fact - Tabla central que contiene los detalles de las ofertas de empleo (puestos, ubicaciones, salarios, fechas, etc.).
+**+ Fact Table / Tabla de hechos:** ==job_postings_fact== - Tabla central que contiene los detalles de las ofertas de empleo (puestos, ubicaciones, salarios, fechas, etc.).
 
-*** Dimension Tables / Tablas de dimensiones:**
+**+ Dimension Tables / Tablas de dimensiones:**
 
-   * company_dim: información de la empresa vinculada a las ofertas de empleo.
+       * ==company_dim:== información de la empresa vinculada a las ofertas de empleo.
 
-   * skills_dim: catálogo de competencias con nombres y tipos de competencias.
+       * ==skills_dim:== catálogo de competencias con nombres y tipos de competencias.
 
-** .Bridge Table / Tabla puente:** skills_job_dim: resuelve la relación muchos a muchos entre las ofertas de empleo y las competencias.
+**+ Bridge Table / Tabla puente:** ==skills_job_dim:== resuelve la relación muchos a muchos entre las ofertas de empleo y las competencias.
 
 Mediante consultas en estas tablas interconectadas, extraje información sobre la demanda de competencias, los patrones salariales y las combinaciones óptimas de competencias para puestos de ingeniería de datos.
 

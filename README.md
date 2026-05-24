@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 Un proyecto de SQL que analiza el mercado laboral de los ingenieros de datos utilizando datos reales de ofertas de empleo. Demuestra mi capacidad para escribir código SQL analítico apto para producción, diseñar consultas eficientes y convertir preguntas de negocio en conclusiones basadas en datos.
 
-\centering![image](https://github.com/user-attachments/assets/27d6f1a2-7d7a-4acd-8c0c-343054aa453b) 
+\centering ![image](https://github.com/user-attachments/assets/27d6f1a2-7d7a-4acd-8c0c-343054aa453b) 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 

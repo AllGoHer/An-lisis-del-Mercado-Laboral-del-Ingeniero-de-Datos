@@ -80,13 +80,13 @@ ________________________________________________________________________________
 
 1_EDA/
 
-├── 01_top_demanded_skills.sql           &emsp;      # Consulta de análisis de demanda.
+├── 01_top_demanded_skills.sql&emsp;&emsp;&emsp;# Consulta de análisis de demanda.
 
-├── 02_top_paying_skills.sql             &emsp;      # Consulta análisis salarial.
+├── 02_top_paying_skills.sql&emsp;&emsp;&emsp;  # Consulta análisis salarial.
 
-├── 03_optimal_skills.sql                &emsp;      # Optimización combinada demanda/salario.
+├── 03_optimal_skills.sql&emsp;&emsp;&emsp;&emsp;# Optimización combinada demanda/salario.
 
-└── README.md                            &emsp;      # Estás aquí.
+└── README.md&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Estás aquí.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 

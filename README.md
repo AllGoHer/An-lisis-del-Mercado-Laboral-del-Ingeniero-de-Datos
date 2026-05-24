@@ -84,9 +84,9 @@ ________________________________________________________________________________
 
 ├── 02_top_paying_skills.sql&emsp;&emsp;&emsp;  # Consulta análisis salarial.
 
-├── 03_optimal_skills.sql&emsp;&emsp;&emsp;&emsp;# Optimización combinada demanda/salario.
+├── 03_optimal_skills.sql&emsp;&emsp;&emsp;&emsp;&emsp;# Optimización combinada demanda/salario.
 
-└── README.md&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Estás aquí.
+└── README.md&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Estás aquí.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -102,13 +102,13 @@ ________________________________________________________________________________
    
 ### Conclusiones clave
 
-🧠 **Lenguajes principales:**  *SQL y Python* aparecen cada uno en unas 29 000 ofertas de empleo, lo que los convierte en las habilidades más demandadas.
+🧠 **Lenguajes principales:**  <mark>*SQL y Python*</mark> aparecen cada uno en unas 29 000 ofertas de empleo, lo que los convierte en las habilidades más demandadas.
 
-☁️ **Plataformas en la nube:**  *AWS y Azure* son fundamentales para los puestos de ingeniería de datos modernos.
+☁️ **Plataformas en la nube:**  <mark>*AWS y Azure*</mark> son fundamentales para los puestos de ingeniería de datos modernos.
 
-🧱 **Infraestructura y herramientas:** *Kubernetes, Docker y Terraform* están asociados a salarios elevados.
+🧱 **Infraestructura y herramientas:** <mark>*Kubernetes, Docker y Terraform*</mark> están asociados a salarios elevados.
 
-🔥 **Herramientas de big data:** *Apache Spark* muestra una fuerte demanda con una remuneración competitiva.
+🔥 **Herramientas de big data:** <mark>*Apache Spark*</mark> muestra una fuerte demanda con una remuneración competitiva.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
